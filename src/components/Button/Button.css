@@ -1,0 +1,20 @@
+.button{
+  border: 1px solid black;
+  color: black;
+  border-radius: 6px;
+  padding: 8px 12px;
+  transition: 0.5s;
+  background-color: white;
+}
+
+.button:hover{
+  filter: invert()
+}
+
+.secondary{
+  background-color: cadetblue;
+}
+
+.tertiary{
+  background-color: rgb(247, 180, 58);
+}
